@@ -50,6 +50,7 @@
 - [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
 
 공공데이터 API를 활용할 수 있습니다.
+- [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map)
 
 ### 클라우드
 클라우드 컴퓨팅의 기초를 이해하고 AWS의 기본적 기능을 경험해봤습니다.
