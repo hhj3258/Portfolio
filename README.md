@@ -40,20 +40,21 @@
 
 ### 게임물리학
 게임물리학의 고전역학 수준의 이해와 구현이 가능합니다.
-- [자동차 물리 구현](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)   
+- [자동차 물리 구현](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
 
 ### 컴퓨터 그래픽스
 컴퓨터 그래픽스의 기초적 이해를 가지고 있습니다.(교과목 이수)
 
 ### 네트워크
 서버-클라이언트 구조를 이해하고 UE4로 구현하였습니다.
-- [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)   
+- [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
+
 공공데이터 API를 활용할 수 있습니다.
 
 ### 클라우드
 클라우드 컴퓨팅의 기초를 이해하고 AWS의 기본적 기능을 경험해봤습니다.
 로드밸런서의 이해 및 구현을 할 수 있습니다.
-- [Simple_LB](https://github.com/hhj3258/Simple_LB)   
+- [Simple_LB](https://github.com/hhj3258/Simple_LB)
 - Docker : 컨테이너 구동 및 관리, 웹 서버 구동
 - AWS : EC2 가상머신 구동, Lambda, SDK
 
