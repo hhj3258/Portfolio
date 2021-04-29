@@ -23,13 +23,13 @@
 
 ### Other Projects
 
-- `2020-06` [경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map) : 
-- `2021-01` [세출예산 자동화](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram) : PDF 파일의 데이터 파싱과 EXCEL을 통한 EXPORT
+- `2020-06` [JAVA_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map) : 
+- `2021-01` [WinForm_세출예산 자동화](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram) : PDF 파일의 데이터 파싱과 EXCEL을 통한 EXPORT
 
 
 ### Toy Projects
 
-- `2021-01` [원신 데미지 계산기](https://github.com/hhj3258/Genshin_DamageFormulaCalculator) :
+- `2021-01` [WinForm_원신 데미지 계산기](https://github.com/hhj3258/Genshin_DamageFormulaCalculator) :
 
 ## 경력
 
