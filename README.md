@@ -23,8 +23,9 @@
 
 ### Other Projects
 
-- `2020-06` [JAVA_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map) : 
+- `2020-06` [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map) : 
 - `2021-01` [WinForm_세출예산 자동화](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram) : PDF 파일의 데이터 파싱과 EXCEL을 통한 EXPORT
+- `2020-06` [Keyboard&TTY Simulator](https://www.youtube.com/watch?v=qYIJJDbaYM8) : 
 
 
 ### Toy Projects
@@ -38,18 +39,23 @@
 - C++
 
 ### 게임물리학
-- 게임물리학의 고전역학 수준의 이해와 활용이 가능합니다.
+게임물리학의 고전역학 수준의 이해와 구현이 가능합니다.
+- [자동차 물리 구현](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
 
 ### 컴퓨터 그래픽스
-- 컴퓨터 그래픽스의 기초적 이해를 가지고 있습니다.(교과목 이수)
+컴퓨터 그래픽스의 기초적 이해를 가지고 있습니다.(교과목 이수)
 
 ### 네트워크
-- 서버-클라이언트 구조를 이해하고 UE4로 구현하였습니다.
+서버-클라이언트 구조를 이해하고 UE4로 구현하였습니다.
+- [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
+공공데이터 API를 활용할 수 있습니다.
 
 ### 클라우드
-- 클라우드 컴퓨팅 기본 구조의 이해와 API를 이용할 수 있습니다.
-- docker
-- AWS
+클라우드 컴퓨팅의 기초를 이해하고 AWS의 기본적 기능을 경험해봤습니다.
+로드밸런서의 이해 및 구현을 할 수 있습니다.
+- [Simple_LB](https://github.com/hhj3258/Simple_LB)
+- Docker : 컨테이너 구동 및 관리, 웹 서버 구동
+- AWS : EC2 가상머신 구동, Lambda, SDK
 
 ### 전산학
 - 컴퓨터 구조
