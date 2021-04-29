@@ -24,9 +24,8 @@
 ### Other Projects
 
 - `2020-06` [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map) : 
+- `2020-12` [Keyboard&TTY Simulator](https://www.youtube.com/watch?v=qYIJJDbaYM8) : 
 - `2021-01` [WinForm_세출예산 자동화](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram) : PDF 파일의 데이터 파싱과 EXCEL을 통한 EXPORT
-- `2020-06` [Keyboard&TTY Simulator](https://www.youtube.com/watch?v=qYIJJDbaYM8) : 
-
 
 ### Toy Projects
 
