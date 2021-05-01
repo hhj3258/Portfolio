@@ -31,7 +31,7 @@
 
 - `2020-06` [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map) : JAVA Swing Table와 공공데이터 API를 이용한 지역화폐가맹점 지도
 - `2020-12` [Logisim_Keyboard&TTY Simulator](https://www.youtube.com/watch?v=qYIJJDbaYM8) : Logisim Mips Processor Keyboard&TTY를 이용한 문답 시뮬레이션
-- `2021-01` [WinForm_세출예산 자동화](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram) : 강원도 시군별 세출예산 정리 자동화 툴(PDF to EXCEL)
+- `2021-01` [WinForm_세출예산 자동화 툴](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram) : 강원도 시군별 세출예산 정리 자동화 툴(PDF to EXCEL)
 
 ### Toy Projects
 
@@ -42,14 +42,14 @@
 ### Languages
 **C#**
 - Unity 캐릭터 기반 리듬게임 개발   
-- 실제 물리 공식을 활용한 자동차 시뮬레이션 개발   
+- WindowForm
 - GoogleVRForUnity을 이용한 VR게임 개발   
-- WinForm 기반 프로그램 개발   
+- 실제 물리 공식을 활용한 자동차 시뮬레이션 개발   
 - PDF와 EXCEL 라이브러리 활용을 통한 파싱 프로그램 개발   
 
 **C++**
 - UE4 C++ 기반 프로그래밍 기본적 이해   
-- 제네릭, STL을 이해하고 활용 가능   
+- 제네릭, STL을 이해하고 활용이 가능합니다.   
 
 **JAVA** 
 - 스윙테이블과 API를 이용한 프로그램 개발   
@@ -60,7 +60,9 @@
 - [자동차 물리 구현](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
 
 ### 컴퓨터 그래픽스
-컴퓨터 그래픽스의 기초적 이해를 가지고 있습니다.(교과목 이수)
+컴퓨터 그래픽스의 이해를 가지고 있습니다.
+- 선형보간
+- 텍스쳐 필터링
 
 ### 서버 & 네트워크
 서버-클라이언트 구조를 이해하고 UE4로 구현하였습니다.
