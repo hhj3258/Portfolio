@@ -81,7 +81,7 @@
 - [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map)
 
 ### 클라우드
-클라우드 컴퓨팅의 기초를 이해하고 AWS의 기본적 기능을 경험해봤습니다.   
+클라우드 컴퓨팅의 기초를 이해하고 AWS의 기본적 기능을 사용할 수 있습니다.   
 로드밸런서의 이해 및 구현을 할 수 있습니다.
 - [Simple_LoadBalancer](https://github.com/hhj3258/Simple_LB)
 - Docker : 컨테이너 구동 및 관리, 웹 서버 구동
