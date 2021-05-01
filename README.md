@@ -31,7 +31,9 @@
 ### Other Projects
 
 - `2020-06` [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map) : JAVA Swing Table와 공공데이터 API를 이용한 지역화폐가맹점 지도
+
 - `2020-12` [Logisim_Keyboard&TTY Simulator](https://www.youtube.com/watch?v=qYIJJDbaYM8) : Logisim Mips Processor Keyboard&TTY를 이용한 문답 시뮬레이션
+
 - `2021-01` [WinForm_세출예산 자동화 툴](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram) : 세출예산 업무 자동화 툴
 
 ### Toy Projects
