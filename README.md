@@ -59,6 +59,7 @@
 ### Toy Projects
 
 - `2021-01` [WinForm_원신 데미지 계산기](https://github.com/hhj3258/Genshin_DamageFormulaCalculator)
+
   -  원신 데미지 공식 기반 계산 자동화 툴
 
 ## :wrench: Skills
