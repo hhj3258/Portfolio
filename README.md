@@ -4,7 +4,7 @@
 
 ### 이름 : 홍현준
 - 전공 : 콘텐츠IT학과 & 물리학과
-- 취미 : [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY) 들으면서 코딩, 게임(RPG, CCG, 로그라이크)
+- 취미 : [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY) 들으면서 코딩, 게임(인디, RPG, CCG, 로그라이크)
 ```
 게임 프로그래머를 향해 내딛는 중입니다. 근데 이제 물리를 끼얹은...
 ```
@@ -17,7 +17,7 @@
 ## Experiences
 
 ### Game
-
+- `2020-09` [UnityVR_FPS_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone) : Unity VR FPS 생존 게임
 - `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner) : UE4 서버-클라이언트 기반 2인 미로탈출 멀티플레이 게임
 - `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack) : Unity 싱글 리듬게임
 
@@ -33,9 +33,23 @@
 
 ## Skills
 
-### 게임 클라이언트
-- C#
-- C++
+### 언어
+- C#   
+-- Unity 캐릭터 기반 리듬게임 개발   
+-- 실제 물리 공식을 활용한 자동차 시뮬레이션 개발   
+-- GoogleVRForUnity을 이용한 VR게임 개발   
+-- WinForm 기반 프로그램 개발   
+-- PDF와 EXCEL 라이브러리 활용을 통한 파싱 프로그램 개발   
+
+- C++   
+-- UE4 C++ 기반 프로그래밍 기본적 이해   
+-- 제네릭, STL을 이해하고 활용 가능   
+
+- JAVA   
+-- 스윙테이블과 API를 이용한 프로그램 개발   
+
+
+
 
 ### 게임물리학
 게임물리학의 고전역학 수준의 이해와 구현이 가능합니다.
