@@ -6,15 +6,13 @@
 - 사물의 겉을 보면 속까지 샅샅이 파고드는 습성 덕분에 컴퓨터와 물리에 빠져들고 있습니다.
 - 즐거운 일에 가치를 더하는 방법을 항상 생각합니다.
 - 나 혼자 할 수 없는 일은 누군가와 함께함으로써 해결할 수 있다는 것을 깨달아가는 중입니다.
-
-
-- 게임(인디, RPG, CCG, 로그라이크)과 [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY) 들으면서 코딩하는 을 즐깁니다.
-- 콘텐츠IT학과와 물리학과를 전공하고 있습니다.
+- 게임(인디, RPG, CCG, 로그라이크)과 [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY)와 함께하는 코딩을 즐깁니다.
+- 현재는 대학교에서 콘텐츠IT학과와 물리학과를 전공하고 있습니다.
 
 ## Contacts
 
-- 이메일 : hhj3258@gmail.com
-- Github : [hhj3258](https://github.com/hhj3258)
+- **이메일** : hhj3258@gmail.com
+- **Github** : [hhj3258](https://github.com/hhj3258)
 
 ## Personal Experiences & Projects
 
@@ -91,7 +89,6 @@
 - `2020-12 ~ 2021-02` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
 
 ## 대외활동
-
 - `2020-04` 한경 앱 아이디어 챌린지 참가
 - `2020-07` 2020 강원 캠퍼스 특허전략경진대회 참가
 - `2020-11` **장려상** [SW Week Coding Festival](https://swweek.hallym.ac.kr/html/contest_02.php)
