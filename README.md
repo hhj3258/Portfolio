@@ -82,7 +82,7 @@
 
 ### 게임물리학
 게임물리학의 고전역학 수준의 이해와 구현이 가능합니다.
-- [자동차 물리 구현](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
+- [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
 
 ### 컴퓨터 그래픽스
 컴퓨터 그래픽스의 이해를 가지고 있습니다.
