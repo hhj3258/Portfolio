@@ -7,16 +7,16 @@
 - 즐거운 일에 가치를 더하는 방법을 항상 생각합니다.
 - 나 혼자 할 수 없는 일은 누군가와 함께함으로써 해결할 수 있다는 것을 깨달아가는 중입니다.
 
-- 전공 : 콘텐츠IT학과 & 물리학과
-- 취미 : [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY) 들으면서 코딩, 게임(인디, RPG, CCG, 로그라이크)
 
+- 게임(인디, RPG, CCG, 로그라이크)과 [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY) 들으면서 코딩하는 을 즐깁니다.
+- 콘텐츠IT학과와 물리학과를 전공하고 있습니다.
 
 ## Contacts
 
 - 이메일 : hhj3258@gmail.com
 - Github : [hhj3258](https://github.com/hhj3258)
 
-## Experiences
+## Personal Experiences & Projects
 
 ### Games
 - `2020-09` [UnityVR_FPS_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone) : Unity VR FPS 생존 게임   
@@ -41,7 +41,7 @@
 
 ## Skills
 
-### 언어
+### Languages
 **C#**
 - Unity 캐릭터 기반 리듬게임 개발   
 - 실제 물리 공식을 활용한 자동차 시뮬레이션 개발   
