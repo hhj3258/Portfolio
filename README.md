@@ -12,7 +12,7 @@
 
 - 게임(인디, RPG, CCG, 로그라이크) 그리고 [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY)와 함께하는 코딩을 즐깁니다.
 
-- 현재는 대학생으로써 콘텐츠IT학과에서 게임 개발을, 응용광물리학과에서 게임 물리를 배우고 있습니다.
+- 현재는 대학생으로서 콘텐츠IT학과에서 게임 개발을, 응용광물리학과에서 게임 물리를 배우고 있습니다.
 
 
 ## :mailbox_closed: Contacts
@@ -25,7 +25,7 @@
 ### Games
 - `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
 
-  -  UE4 서버-클라이언트 기반 2인 미로탈출 멀티플레이 게임
+  -  UE4 서버-클라이언트 기반 2인 미로 탈출 멀티플레이 게임
 
 <img src="https://user-images.githubusercontent.com/70702088/116792211-31dc5000-aafa-11eb-875f-ac9cb8ae9b62.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
@@ -67,7 +67,7 @@
 **C#**
 - Unity 캐릭터 기반 리듬게임 개발   
 - WindowForm
-- GoogleVRForUnity을 이용한 VR게임 개발   
+- GoogleVRForUnity을 이용한 VR 게임 개발   
 - 실제 물리 공식을 활용한 자동차 시뮬레이션 개발   
 - PDF와 EXCEL 라이브러리 활용을 통한 파싱 프로그램 개발   
 
