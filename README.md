@@ -93,7 +93,7 @@
 - `2020-04` 한경 앱 아이디어 챌린지 참가
 - `2020-07` 2020 강원 캠퍼스 특허전략경진대회 참가
 - `2020-11` **장려상** [SW Week Coding Festival](https://swweek.hallym.ac.kr/html/contest_02.php)
-- `2021-04` [한국인디게임협회 주관 인디오락실 아이엠그라운드](https://www.youtube.com/watch?v=ovJMKrw8jys) **2:20:05**
+- `2021-04` [한국인디게임협회 주관 인디오락실 아이엠그라운드](https://www.youtube.com/watch?v=ovJMKrw8jys) - **2:20:05**
 
 ## 교육이수
 - JSP와 servlet을 이용한 핵심 자바 웹 서버 프로그래밍
