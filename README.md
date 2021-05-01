@@ -16,9 +16,15 @@
 
 ## Experiences
 
-### Game
-- `2020-09` [UnityVR_FPS_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone) : Unity VR FPS 생존 게임
+### Games
+- `2020-09` [UnityVR_FPS_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone) : Unity VR FPS 생존 게임   
+
+<img src="https://user-images.githubusercontent.com/70702088/116786420-7277a180-aad9-11eb-9c84-c1d645e12e9d.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
 - `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner) : UE4 서버-클라이언트 기반 2인 미로탈출 멀티플레이 게임
+
+<img src="https://user-images.githubusercontent.com/70702088/116787755-f8e3b180-aae0-11eb-9f2c-918e9553e293.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
 - `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack) : Unity 캐릭터 기반 싱글 리듬게임
 
 ### Other Projects
