@@ -6,7 +6,7 @@
 - 전공 : 콘텐츠IT학과 & 물리학과
 - 취미 : [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY) 들으면서 코딩, 게임(인디, RPG, CCG, 로그라이크)
 ```
-게임 프로그래머를 향해 내딛는 중입니다. 근데 이제 물리를 끼얹은...
+게임 프로그래머를 향해 가는 중입니다. 근데 이제 물리를 첨가한...
 ```
 
 ## Contacts
@@ -19,7 +19,7 @@
 ### Game
 - `2020-09` [UnityVR_FPS_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone) : Unity VR FPS 생존 게임
 - `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner) : UE4 서버-클라이언트 기반 2인 미로탈출 멀티플레이 게임
-- `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack) : Unity 싱글 리듬게임
+- `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack) : Unity 캐릭터 기반 싱글 리듬게임
 
 ### Other Projects
 
