@@ -9,7 +9,7 @@
 - 게임(인디, RPG, CCG, 로그라이크)과 [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY)와 함께하는 코딩을 즐깁니다.
 - 현재는 대학생으로써 콘텐츠IT학과에서 게임 개발을, 응용광물리학과에서 게임 물리를 배우고 있습니다.
 
-## Contacts
+## :mailbox_closed:Contacts
 
 - **이메일** : hhj3258@gmail.com
 - **Github** : [hhj3258](https://github.com/hhj3258)
