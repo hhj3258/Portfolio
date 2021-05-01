@@ -34,8 +34,8 @@
 ## Skills
 
 ### 언어
-- C#   
--- Unity 캐릭터 기반 리듬게임 개발   
+- C#
+ - Unity 캐릭터 기반 리듬게임 개발   
 -- 실제 물리 공식을 활용한 자동차 시뮬레이션 개발   
 -- GoogleVRForUnity을 이용한 VR게임 개발   
 -- WinForm 기반 프로그램 개발   
