@@ -35,7 +35,7 @@
 
 <img src="https://user-images.githubusercontent.com/70702088/116793173-09575480-ab00-11eb-8a8f-c39fafe1f402.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-- `2020-09` [UnityVR_FPS_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone)
+- `2020-09` [UnityVR_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone)
 
   -  Unity VR FPS 생존 게임   
 
