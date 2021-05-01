@@ -23,31 +23,39 @@
 ## :bulb: Personal Experiences & Projects
 
 ### Games
-- `2020-09` [UnityVR_FPS_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone) : Unity VR FPS 생존 게임   
+- `2020-09` [UnityVR_FPS_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone)
+  -  Unity VR FPS 생존 게임   
 
 <img src="https://user-images.githubusercontent.com/70702088/116792147-ddd16b80-aaf9-11eb-9cd7-e482d562e1d8.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-- `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner) : UE4 서버-클라이언트 기반 2인 미로탈출 멀티플레이 게임
+- `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
+  -  UE4 서버-클라이언트 기반 2인 미로탈출 멀티플레이 게임
 
 <img src="https://user-images.githubusercontent.com/70702088/116792211-31dc5000-aafa-11eb-875f-ac9cb8ae9b62.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-- `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack) : 아기자기하고 누구나 즐길 수 있는 싱글 리듬게임
+- `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack)
+  -  아기자기하고 누구나 즐길 수 있는 싱글 리듬게임
 
 <img src="https://user-images.githubusercontent.com/70702088/116793173-09575480-ab00-11eb-8a8f-c39fafe1f402.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-- `2021-03 ~` [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics) : 실제적인 자동차 물리의 이해와 구현
+- `2021-03 ~` [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
+  -  실제적인 자동차 물리의 이해와 구현
 
 ### Other Projects
 
-- `2020-06` [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map) : JAVA Swing Table와 공공데이터 API를 이용한 지역화폐가맹점 지도
+- `2020-06` [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map)
+  -  JAVA Swing Table와 공공데이터 API를 이용한 지역화폐가맹점 지도
 
-- `2020-12` [Logisim_Keyboard&TTY Simulator](https://www.youtube.com/watch?v=qYIJJDbaYM8) : Logisim Mips Processor Keyboard&TTY를 이용한 문답 시뮬레이션
+- `2020-12` [Logisim_Keyboard&TTY Simulator](https://www.youtube.com/watch?v=qYIJJDbaYM8)
+  -  Logisim Mips Processor Keyboard&TTY를 이용한 문답 시뮬레이션
 
-- `2021-01` [WinForm_세출예산 자동화 툴](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram) : 세출예산 업무 자동화 툴
+- `2021-01` [WinForm_세출예산 자동화 툴](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram)
+  -  세출예산 업무 자동화 툴
 
 ### Toy Projects
 
-- `2021-01` [WinForm_원신 데미지 계산기](https://github.com/hhj3258/Genshin_DamageFormulaCalculator) : 원신 데미지 공식 기반 계산 자동화 툴
+- `2021-01` [WinForm_원신 데미지 계산기](https://github.com/hhj3258/Genshin_DamageFormulaCalculator)
+  -  원신 데미지 공식 기반 계산 자동화 툴
 
 ## :wrench: Skills
 
