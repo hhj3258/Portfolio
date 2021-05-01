@@ -6,7 +6,7 @@
 ```
 - 이름 : 홍현준
 - 전공 : 콘텐츠IT학과 & 물리학과
-- 취미 : [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY) 들으면서 코딩하기, 게임(CCG, 레이싱, 로그라이크)
+- 취미 : [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY) 들으면서 코딩, 게임(CCG, 레이싱, 로그라이크)
 
 
 ## Contacts
@@ -18,18 +18,18 @@
 
 ### Game
 
-- `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner) : 
-- `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack) : 
+- `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner) : UE4 서버-클라이언트 기반 2인 미로탈출 멀티플레이 게임
+- `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack) : Unity 싱글 리듬게임
 
 ### Other Projects
 
-- `2020-06` [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map) : 
-- `2020-12` [Keyboard&TTY Simulator](https://www.youtube.com/watch?v=qYIJJDbaYM8) : 
-- `2021-01` [WinForm_세출예산 자동화](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram) : PDF 파일의 데이터 파싱과 EXCEL을 통한 EXPORT
+- `2020-06` [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map) : JAVA Swing Table와 공공데이터 API를 이용한 지역화폐가맹점 지도
+- `2020-12` [Logisim_Keyboard&TTY Simulator](https://www.youtube.com/watch?v=qYIJJDbaYM8) : Logisim Mips Processor Keyboard&TTY 컴포넌트를 이용한 문답 시뮬레이션
+- `2021-01` [WinForm_세출예산 자동화](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram) : 강원도 시군별 세출예산 정리 자동화 툴(PDF to EXCEL)
 
 ### Toy Projects
 
-- `2021-01` [WinForm_원신 데미지 계산기](https://github.com/hhj3258/Genshin_DamageFormulaCalculator) :
+- `2021-01` [WinForm_원신 데미지 계산기](https://github.com/hhj3258/Genshin_DamageFormulaCalculator) : 원신 데미지 공식 기반 계산 자동화 툴
 
 ## Skills
 
@@ -65,8 +65,6 @@
 - 컴퓨터구조
 - 컴파일러구성
 
-
-
 ## 경력
 
 - `2020-06 ~ 2020-08` 하계 임팩시스 전략기획실 인턴
@@ -82,6 +80,6 @@
 ## 교육이수
 - JSP와 servlet을 이용한 핵심 자바 웹 서버 프로그래밍
 - 누구나 할 수 있는 가상현실(VR) 콘텐츠 제작
-- [SW빌리지]보안-블록체인
 - 오픈소스와 클라우드 (사례로 보는 공개SW 클라우드의 구축과 활용)
 - Github와 sourcetree를 이용한 SW개발 형상 관리 방법
+- [SW빌리지]보안-블록체인
