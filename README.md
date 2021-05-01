@@ -1,6 +1,6 @@
 # **빠져드는 것을 즐기는 개발자, 홍현준입니다.**
 
-## Introduction
+## :raised_hands:Introduction
 - 안녕하세요? 주니어 게임 개발자 홍현준입니다.
 - 게임을 좋아하고 나아가 더 즐거운 게임을 만들고 싶어 개발자로서의 길을 걷고 있습니다.
 - 사물의 겉을 보면 속까지 샅샅이 파고드는 습성 덕분에 컴퓨터와 물리에 빠져들고 있습니다.
@@ -14,7 +14,7 @@
 - **이메일** : hhj3258@gmail.com
 - **Github** : [hhj3258](https://github.com/hhj3258)
 
-## Personal Experiences & Projects
+## :bulb:Personal Experiences & Projects
 
 ### Games
 - `2020-09` [UnityVR_FPS_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone) : Unity VR FPS 생존 게임   
@@ -38,7 +38,7 @@
 
 - `2021-01` [WinForm_원신 데미지 계산기](https://github.com/hhj3258/Genshin_DamageFormulaCalculator) : 원신 데미지 공식 기반 계산 자동화 툴
 
-## Skills
+## :wrench:Skills
 
 ### Languages
 **C#**
@@ -86,18 +86,18 @@
 - 컴퓨터구조
 - 컴파일러구성
 
-## 경력
+## :necktie:경력
 
 - `2020-06 ~ 2020-08` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
 - `2020-12 ~ 2021-02` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
 
-## 대외활동
+## :surfer:대외활동
 - `2020-04` 한경 앱 아이디어 챌린지 참가
 - `2020-07` 2020 강원 캠퍼스 특허전략경진대회 참가
 - `2020-11` **장려상** [SW Week Coding Festival](https://swweek.hallym.ac.kr/html/contest_02.php)
 - `2021-04` [한국인디게임협회 주관 인디오락실 아이엠그라운드](https://www.youtube.com/watch?v=ovJMKrw8jys) - **2:20:05**
 
-## 교육이수
+## :pencil:교육이수
 - JSP와 servlet을 이용한 핵심 자바 웹 서버 프로그래밍
 - 누구나 할 수 있는 가상현실(VR) 콘텐츠 제작
 - 오픈소스와 클라우드 (사례로 보는 공개SW 클라우드의 구축과 활용)
