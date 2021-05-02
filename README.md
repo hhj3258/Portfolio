@@ -65,7 +65,7 @@
 ## :wrench: Skills
 
 ### Languages
-**C#/Unity**
+**C# / Unity**
 - Unity 캐릭터 기반 리듬게임 개발 경험   
 - Unity VR 게임 개발 경험   
 - Animation기능을 활용 가능
