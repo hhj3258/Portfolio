@@ -54,7 +54,7 @@
   -  Logisim Mips Processor Keyboard&TTY를 이용한 문답 시뮬레이션
 
 - `2021-01` [WinForm_세출예산 자동화 툴](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram)
-  -  세출예산 업무 자동화 툴
+  -  세출예산 업무 자동화 툴(PDF to EXCEL)
 
 ### Toy Projects
 
