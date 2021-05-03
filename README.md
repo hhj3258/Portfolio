@@ -25,7 +25,7 @@
 ### Games
 - `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
 
-  -  UE4 서버-클라이언트 기반 2인 미로 탈출 멀티플레이 게임
+  -  UE4 Dedicated Server 2인 미로 탈출 멀티플레이 게임
 
 <img src="https://user-images.githubusercontent.com/70702088/116792211-31dc5000-aafa-11eb-875f-ac9cb8ae9b62.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
