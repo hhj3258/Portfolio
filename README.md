@@ -31,7 +31,7 @@
 
 - `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack)
 
-  -  아기자기하고 누구나 즐길 수 있는 싱글 리듬게임
+  -  아기자기한 게임 구성과 쉬운 조작으로 남녀노소 즐길 수 있는 리듬게임
 
 <img src="https://user-images.githubusercontent.com/70702088/116793173-09575480-ab00-11eb-8a8f-c39fafe1f402.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
