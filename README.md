@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/70702088/117243168-a522f080-ae71-11eb-84ce-42fbb135f60e.png" width="25%" height="25%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 ## :raised_hands: Introduction
-- **안녕하세요? 주니어 게임 개발자 홍현준입니다.**
+- **안녕하세요? 주니어 게임 클라이언트 개발자 홍현준입니다.**
 - 게임을 좋아하고 나아가 더 즐거운 게임을 만들고 싶어 게임 프로그래머로서의 길을 걷고 있습니다.
 
 - 또한 사물의 겉을 보면 속까지 샅샅이 파고드는 습성 덕분에 컴퓨터와 물리에 빠져들고 있습니다.
