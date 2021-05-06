@@ -1,6 +1,6 @@
 # **빠져드는 것을 즐기는 개발자, 홍현준입니다.**
 
-<img src="https://user-images.githubusercontent.com/70702088/117242895-21690400-ae71-11eb-938b-03178c861bcc.png" width="25%" height="25%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/70702088/117243168-a522f080-ae71-11eb-84ce-42fbb135f60e.png" width="25%" height="25%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 ## :raised_hands: Introduction
 - **안녕하세요? 주니어 게임 개발자 홍현준입니다.**
