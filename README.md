@@ -48,20 +48,19 @@
   -  실제적인 자동차 물리의 이해와 구현
 
 ### Other Projects
-
-- `2020-06` [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map)
-  -  JAVA Swing Table와 공공데이터 API를 이용한 지역화폐가맹점 지도
+- `2021-01` [WinForm_세출예산 자동화 툴](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram)
+  -  세출예산 정리 자동화 툴(PDF to EXCEL)
 
 - `2020-12` [Logisim_Keyboard&TTY Simulator](https://www.youtube.com/watch?v=qYIJJDbaYM8)
   -  Logisim Mips Processor Keyboard&TTY를 이용한 문답 시뮬레이션
 
-- `2021-01` [WinForm_세출예산 자동화 툴](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram)
-  -  세출예산 정리 자동화 툴(PDF to EXCEL)
+- `2020-06` [JTable_경기도 지역화폐 API 지도](https://github.com/hhj3258/JAVA_Gyeonggi-do_LocalCurrency_API_Table-Map)
+  -  JAVA Swing Table와 공공데이터 API를 이용한 지역화폐가맹점 지도
+
 
 ### Toy Projects
 
 - `2021-01` [WinForm_원신 데미지 계산기](https://github.com/hhj3258/Genshin_DamageFormulaCalculator)
-
   -  원신 데미지 공식 기반 계산 자동화 툴
 
 ## :wrench: Skills
@@ -120,21 +119,20 @@
 - 컴파일러구성
 
 ## :necktie: 경력
-
-- `2020-06 ~ 2020-08` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
 - `2020-12 ~ 2021-02` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
+- `2020-06 ~ 2020-08` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
 
 ## :surfer: 대외활동
-- `2020-04` 한경 앱 아이디어 챌린지 참가
-- `2020-07` 2020 강원 캠퍼스 특허전략경진대회 참가
-- `2020-11` **장려상** [SW Week Coding Festival](https://swweek.hallym.ac.kr/html/contest_02.php)
 - `2021-04` [한국인디게임협회 주관 인디오락실 아이엠그라운드](https://www.youtube.com/watch?v=ovJMKrw8jys) - **2:20:05**
+- `2020-11` **장려상** [SW Week Coding Festival](https://swweek.hallym.ac.kr/html/contest_02.php)
+- `2020-07` 2020 강원 캠퍼스 특허전략경진대회 참가
+- `2020-04` 한경 앱 아이디어 챌린지 참가
 
 ## :pencil: 교육이수
-- `2019-09` [SW빌리지]보안-블록체인
-- `2020-09` 누구나 할 수 있는 가상현실(VR) 콘텐츠 제작
-- `2020-10` 오픈소스와 클라우드 (사례로 보는 공개SW 클라우드의 구축과 활용)
-- `2021-03` Github와 sourcetree를 이용한 SW개발 형상 관리 방법
 - `2021-04` JSP와 servlet을 이용한 핵심 자바 웹 서버 프로그래밍
+- `2021-03` Github와 sourcetree를 이용한 SW개발 형상 관리 방법
+- `2020-10` 오픈소스와 클라우드 (사례로 보는 공개SW 클라우드의 구축과 활용)
+- `2020-09` 누구나 할 수 있는 가상현실(VR) 콘텐츠 제작
+- `2019-09` [SW빌리지]보안-블록체인
 
 
