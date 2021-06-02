@@ -45,7 +45,7 @@
 
 - `2021-03 ~` [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
 
-  -  실제적인 자동차 물리의 이해와 구현
+  -  실제적인 자동차 물리 구현
 
 ### Other Projects
 - `2021-01` [WinForm_세출예산 자동화 툴](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram)
