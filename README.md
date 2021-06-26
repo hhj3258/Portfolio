@@ -96,7 +96,7 @@
 - 텍스쳐 필터링
 
 ### 서버 & 네트워크
-서버-클라이언트 구조를 이해하고 UE4로 구현하였습니다.
+서버-클라이언트 구조를 이용하여 UE4로 구현하였습니다.
 - [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
 
 공공데이터 API를 활용할 수 있습니다.
