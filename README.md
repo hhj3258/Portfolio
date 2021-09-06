@@ -2,6 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/70702088/117243168-a522f080-ae71-11eb-84ce-42fbb135f60e.png" width="25%" height="25%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
+![image](https://user-images.githubusercontent.com/70702088/132178169-3c45cf7b-51d8-4a31-a32b-6beab431a9fd.png)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhj3258)](https://solved.ac/hhj3258)
+
 ## :raised_hands: Introduction
 - **안녕하세요? 주니어 게임 클라이언트 개발자 홍현준입니다.**
 - 게임을 좋아하고 나아가 더 즐거운 게임을 만들고 싶어 게임 프로그래머로서의 길을 걷고 있습니다.
@@ -12,7 +15,7 @@
 
 - 혼자서는 할 수 없는 일도 함께한다면 해결할 수 있다는 걸 깨달아가는 중입니다.
 
-- 게임(인디, RPG, CCG, 로그라이크) 그리고 [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY)와 함께하는 코딩을 즐깁니다.
+- 게임(RPG, CCG, 로그라이크), 그리고 [노래](https://www.youtube.com/watch?v=nxKfi-6EtmY)와 함께하는 코딩을 즐깁니다.
 
 - 현재는 대학생으로서 콘텐츠IT학과에서 게임 개발을, 응용광물리학과에서 게임 물리를 배우고 있습니다.
 
@@ -25,26 +28,28 @@
 ## :bulb: Personal Experiences & Projects
 
 ### Games
-- `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
+- `2021-05` [Unity_VR_ExtremeSpeed](https://github.com/hhj3258/Unity_VR_ExtremeSpeed)
+  -  Unity VR 레이싱 게임
+  -  [Youtube Link](https://www.youtube.com/watch?v=IZNl5Z_vPls)
 
+<img src="https://user-images.githubusercontent.com/70702088/132180826-bd95bbbd-79bb-4340-b093-953cf1ad79bb.png" width="50%" height="50%"></img>
+
+- `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
   -  UE4 Dedicated Server 2인 미로 탈출 멀티플레이 게임
 
-<img src="https://user-images.githubusercontent.com/70702088/116792211-31dc5000-aafa-11eb-875f-ac9cb8ae9b62.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/70702088/116792211-31dc5000-aafa-11eb-875f-ac9cb8ae9b62.png" width="50%" height="50%"></img>
 
 - `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack)
-
   -  아기자기한 게임 구성과 쉬운 조작으로 남녀노소 즐길 수 있는 리듬게임
-
-<img src="https://user-images.githubusercontent.com/70702088/116793173-09575480-ab00-11eb-8a8f-c39fafe1f402.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+ 
+<img src="https://user-images.githubusercontent.com/70702088/116793173-09575480-ab00-11eb-8a8f-c39fafe1f402.png" width="50%" height="50%"></img>
 
 - `2020-09` [UnityVR_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone)
-
   -  Unity VR FPS 생존 게임
 
-<img src="https://user-images.githubusercontent.com/70702088/116792147-ddd16b80-aaf9-11eb-9cd7-e482d562e1d8.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/70702088/116792147-ddd16b80-aaf9-11eb-9cd7-e482d562e1d8.png" width="50%" height="50%"></img>
 
 - `2021-03 ~` [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
-
   -  실제적인 자동차 물리 구현
 
 ### Other Projects
@@ -95,6 +100,7 @@
 ### 게임물리학
 게임물리학의 고전역학 수준의 이해와 구현
 - [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
+- [GamePhysics](https://github.com/hhj3258/GamePhysics)
 
 ### 컴퓨터 그래픽스
 컴퓨터 그래픽스의 이해
