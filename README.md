@@ -102,11 +102,6 @@
 - [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
 - [GamePhysics](https://github.com/hhj3258/GamePhysics)
 
-### 컴퓨터 그래픽스
-컴퓨터 그래픽스의 이해
-- 선형보간
-- 텍스쳐 필터링
-
 ### 전산학
 교과목 이수
 - 자료구조
