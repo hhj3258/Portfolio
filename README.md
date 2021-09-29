@@ -1,12 +1,12 @@
 # **빠져드는 것을 즐기는 개발자, 홍현준입니다.**
 
-<img src="https://user-images.githubusercontent.com/70702088/117243168-a522f080-ae71-11eb-84ce-42fbb135f60e.png" width="25%" height="25%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/70702088/135261821-c0fac6cc-a34b-4ece-a27a-20480fac0190.png" width="30%" height="30%"></img>
 
 ![image](https://user-images.githubusercontent.com/70702088/132178169-3c45cf7b-51d8-4a31-a32b-6beab431a9fd.png)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhj3258)](https://solved.ac/hhj3258)
 
 ## :raised_hands: Introduction
-- **반갑습니다! 주니어 게임 클라이언트 개발자 홍현준입니다.**
+- **반갑습니다! 신입 게임 클라이언트 개발자 홍현준입니다.**
 - 지금은 대학생으로서 콘텐츠IT학과에서 게임 개발을, 응용광물리학과에서 게임 물리를 배우고 있습니다.
 
 - 게임을 좋아하고 나아가 더 즐거운 게임을 만들고 싶어 게임 프로그래머로서의 길을 걷고 있습니다.
