@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/70702088/135261821-c0fac6cc-a34b-4ece-a27a-20480fac0190.png" width="30%" height="30%"></img>
 
-![image](https://user-images.githubusercontent.com/70702088/132178169-3c45cf7b-51d8-4a31-a32b-6beab431a9fd.png)
+![image](https://user-images.githubusercontent.com/70702088/136010250-9dca2a49-b4f1-494a-8307-4d0d8514b431.png)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhj3258)](https://solved.ac/hhj3258)
 
 ## :raised_hands: Introduction
