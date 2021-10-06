@@ -7,8 +7,8 @@
 
 
 # :raised_hands: Introduction
-- **반갑습니다! 신입 게임 클라이언트 개발자 홍현준입니다.**
-- 지금은 대학생으로서 콘텐츠IT학과에서 게임 개발을, 응용광물리학과에서 게임 물리를 배우고 있습니다.
+- ### **반갑습니다! 신입 게임 클라이언트 개발자 홍현준입니다.**
+- 지금은 대학생으로서 콘텐츠IT학과에서 **게임 개발**을, 응용광물리학과에서 **게임 물리**를 배우고 있습니다.
 
 - 게임을 좋아하고 나아가 더 즐거운 게임을 만들고 싶어 게임 프로그래머로서의 길을 걷고 있습니다.
 
@@ -20,34 +20,34 @@
 
 
 # :mailbox_closed: Contacts
-- **Github** : [hhj3258](https://github.com/hhj3258)
-- **블로그** : https://velog.io/@hhj3258
-- **이메일** : hhj3258@gmail.com
+- ### **GitHub** : [hhj3258](https://github.com/hhj3258)
+- ### **Blog** : https://velog.io/@hhj3258
+- ### **Email** : hhj3258@gmail.com
 
 
 # :bulb: Personal Experiences & Projects
 ## Unity
-- `2021-05` [Unity_VR_ExtremeSpeed](https://github.com/hhj3258/Unity_VR_ExtremeSpeed)
+- ### `2021-05` [Unity_VR_ExtremeSpeed](https://github.com/hhj3258/Unity_VR_ExtremeSpeed)
   -  Unity VR 레이싱 게임
   -  [Youtube - Unity VR Extreme Speed](https://www.youtube.com/watch?v=IZNl5Z_vPls)
 
 <img src="https://user-images.githubusercontent.com/70702088/132180826-bd95bbbd-79bb-4340-b093-953cf1ad79bb.png" width="50%" height="50%"></img>
 
-- `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack)
+- ### `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack)
   -  아기자기한 게임 구성과 쉬운 조작으로 남녀노소 즐길 수 있는 리듬게임
 
  <img src="https://user-images.githubusercontent.com/70702088/116793173-09575480-ab00-11eb-8a8f-c39fafe1f402.png" width="50%" height="50%"></img>
 
-- `2020-09` [UnityVR_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone)
+- ### `2020-09` [UnityVR_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone)
   -  Unity VR FPS 생존 게임
 
 <img src="https://user-images.githubusercontent.com/70702088/116792147-ddd16b80-aaf9-11eb-9cd7-e482d562e1d8.png" width="50%" height="50%"></img>
 
-- `2021-03 ~` [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
+- ### `2021-03 ~` [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
   -  실제적인 자동차 물리 구현
 
 ## Unreal Engine 4
-- `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
+- ### `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
   -  Dedicated Server를 사용한 2인 미로 탈출 멀티플레이 게임
 
 <img src="https://user-images.githubusercontent.com/70702088/116792211-31dc5000-aafa-11eb-875f-ac9cb8ae9b62.png" width="50%" height="50%"></img>
@@ -96,13 +96,16 @@
 
 ## 게임물리학
 - 게임물리학의 고전역학 수준의 이해와 구현
+
   - [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
   - [GamePhysics](https://github.com/hhj3258/GamePhysics)
 
 ## 전산학
 - 자료구조 & 알고리즘
+
   - [Algorithm_Study](https://github.com/hhj3258/Algorithm_Study)
 - 컴퓨터구조
+
   - [Logisim_Keyboard&TTY Simulator](https://youtu.be/qYIJJDbaYM8)
 
 </br>
