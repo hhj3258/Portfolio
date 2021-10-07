@@ -88,7 +88,7 @@
 - 스윙테이블과 API를 이용한 프로그램 개발
 
 ## 서버 & 네트워크
-- 서버-클라이언트 구조를 이용하여 UE4로 구현
+- 서버-클라이언트 Dedicated Server를 UE4로 구현
   - [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
 
 - 공공데이터 API 활용
