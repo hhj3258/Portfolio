@@ -1,8 +1,8 @@
 # **빠져드는 것을 즐기는 개발자, 홍현준입니다.**
 
-<img src="https://user-images.githubusercontent.com/70702088/135261821-c0fac6cc-a34b-4ece-a27a-20480fac0190.png" width="30%" height="30%"></img>
+<img src="https://user-images.githubusercontent.com/70702088/135261821-c0fac6cc-a34b-4ece-a27a-20480fac0190.png" width="35%" height="35%"></img>
 
-![image](https://user-images.githubusercontent.com/70702088/136010250-9dca2a49-b4f1-494a-8307-4d0d8514b431.png)
+<img src="https://user-images.githubusercontent.com/70702088/137305252-fd68b99c-0eea-4adc-98df-0c8cb8056100.png"></img>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhj3258)](https://solved.ac/hhj3258)
 
 
