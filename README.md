@@ -113,7 +113,7 @@
 # :surfer: 대외활동 & 수상경력
 - `2021-06` **은상** SW 전공 교과목 연계 경진대회 - 가상현실 기초 및 실습
 - `2021-04` [한국인디게임협회 주관 인디오락실 아이엠그라운드](https://www.youtube.com/watch?v=ovJMKrw8jys) - **2:20:05**
-- `2020-11` **장려상** [SW Week Coding Festival](https://swweek.hallym.ac.kr/html/contest_02.php)
+- `2020-11` **장려상** [SW Week Coding Festival](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=TITLE_CONTENT&val=coding&CAT_ID=0&BID=353&cmd=view)
 - `2020-04` 한경 앱 아이디어 챌린지 참가
 
 # :necktie: 경력
