@@ -100,7 +100,7 @@
   - [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
   - [GamePhysics](https://github.com/hhj3258/GamePhysics)
 
-## 전산학
+## Computer Science
 - 자료구조 & 알고리즘
 
   - [Algorithm_Study](https://github.com/hhj3258/Algorithm_Study)
