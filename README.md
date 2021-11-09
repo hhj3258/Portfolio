@@ -114,7 +114,7 @@
   - 한림대학교 교내 알고리즘 경진대회
 
 - `2021-11` **은상** [GitHub 이력서 콘테스트 해커톤](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=&val=&CAT_ID=0&BID=540&cmd=view)
-  - 오픈소스 소프트웨어 시대를 맞아 SW전공자 및 비전공자가 GitHub라는 매체를 이용해 자신을 PR
+  - 오픈소스 소프트웨어 시대를 맞아 SW전공자 및 비전공자가 GitHub라는 매체를 이용한 자 PR
 
 - `2021-06` **은상** SW 전공 교과목 연계 경진대회
   - 교과목명 : 가상현실 기초 및 실습(Unity, VR)
