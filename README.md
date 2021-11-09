@@ -2,13 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/70702088/135261821-c0fac6cc-a34b-4ece-a27a-20480fac0190.png" width="35%" height="35%"></img>
 
-<img src="https://user-images.githubusercontent.com/70702088/137305252-fd68b99c-0eea-4adc-98df-0c8cb8056100.png"></img>
+![image](https://user-images.githubusercontent.com/70702088/140992979-509d4b5f-ebec-4adf-aab1-e2e7e2e1c123.png)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhj3258)](https://solved.ac/hhj3258)
 
 
 # :raised_hands: Introduction
 - ### **반갑습니다! 게임 개발자를 꿈꾸는 홍현준입니다.**
-- 지금은 대학생으로서 콘텐츠IT학과에서 **게임 개발**을, 나노융합스쿨학부에서 **물리**를 배우고 있습니다.
+- 지금은 대학생으로서 콘텐츠IT 학과에서 **게임 개발**을, 나노융합스쿨 학부에서 **물리**를 배우고 있습니다.
 
 - 게임을 좋아하고 나아가 더 즐거운 게임을 만들고 싶어 게임 프로그래머로서의 길을 걷고 있습니다.
 
@@ -102,26 +102,39 @@
 
 ## Computer Science
 - 자료구조 & 알고리즘
-
   - [Algorithm_Study](https://github.com/hhj3258/Algorithm_Study)
-- 컴퓨터구조
 
+- 컴퓨터구조
   - [Logisim_Keyboard&TTY Simulator](https://youtu.be/qYIJJDbaYM8)
 
 </br>
 
 # :surfer: 대외활동 & 수상경력
-- `2021-06` **은상** SW 전공 교과목 연계 경진대회 - 가상현실 기초 및 실습
-- `2021-04` [한국인디게임협회 주관 인디오락실 아이엠그라운드](https://www.youtube.com/watch?v=ovJMKrw8jys) - **2:20:05**
+- `2021-11` **금상** [SW Week Coding Festival](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=&val=&CAT_ID=0&BID=548&cmd=view)
+  - 한림대학교 교내 알고리즘 경진대회
+
+- `2021-11` **은상** [GitHub 이력서 콘테스트 해커톤](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=&val=&CAT_ID=0&BID=540&cmd=view)
+  - 오픈소스 소프트웨어 시대를 맞아 SW전공자 및 비전공자가 GitHub라는 매체를 이용해 자신을 PR
+
+- `2021-06` **은상** SW 전공 교과목 연계 경진대회
+  - 교과목명 : 가상현실 기초 및 실습(Unity, VR)
+
 - `2020-11` **장려상** [SW Week Coding Festival](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=TITLE_CONTENT&val=coding&CAT_ID=0&BID=353&cmd=view)
+  - 한림대학교 교내 알고리즘 경진대회
+
+- `2021-04` [한국인디게임협회 주관 인디오락실 - 아이엠그라운드 참가](https://www.youtube.com/watch?v=ovJMKrw8jys) - **2:20:05**
+  - [2021온택트 인디게임쇼 - 제 6회 인디오락실 개최 안내](https://k-indiegame.or.kr/notice/?pageid=1&mod=document&uid=22)
+
 - `2020-04` 한경 앱 아이디어 챌린지 참가
 
 # :necktie: 경력
 - `2020-12 ~ 2021-02` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
+
 - `2020-06 ~ 2020-08` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
 
 # :pencil: 교육이수
 - `2021-07` 누구나 할 수 있는 웹기반 증강현실(AR) 콘텐츠 제작
+
 - `2021-04` JSP와 servlet을 이용한 핵심 자바 웹 서버 프로그래밍
 - `2021-03` Github와 sourcetree를 이용한 SW개발 형상 관리 방법
 - `2020-10` 오픈소스와 클라우드 (사례로 보는 공개SW 클라우드의 구축과 활용)
