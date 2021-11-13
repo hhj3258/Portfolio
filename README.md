@@ -133,11 +133,15 @@
 - `2020-06 ~ 2020-08` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
 
 # :pencil: 교육이수
-- `2021-07` 누구나 할 수 있는 웹기반 증강현실(AR) 콘텐츠 제작
+- `2021-07` [누구나 할 수 있는 웹기반 증강현실(AR) 콘텐츠 제작](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=TITLE_CONTENT&val=VR&CAT_ID=0&BID=459&cmd=view)
 
 - `2021-04` JSP와 servlet을 이용한 핵심 자바 웹 서버 프로그래밍
+
 - `2021-03` Github와 sourcetree를 이용한 SW개발 형상 관리 방법
+
 - `2020-10` 오픈소스와 클라우드 (사례로 보는 공개SW 클라우드의 구축과 활용)
-- `2020-09` 누구나 할 수 있는 가상현실(VR) 콘텐츠 제작
+
+- `2020-09` [누구나 할 수 있는 가상현실(VR) 콘텐츠 제작](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=TITLE_CONTENT&val=VR&CAT_ID=0&BID=316&cmd=view)
+
 - `2019-09` [SW빌리지]보안-블록체인
 
