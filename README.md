@@ -27,6 +27,12 @@
 
 # :bulb: Personal Experiences & Projects
 ## Unity
+- ### `2021-12` [Rule Mate](https://github.com/hhj3258/RuleMate_Project)
+  -  캐주얼 멀티플레이 게임
+  -  [Youtube - Rule Mate](https://youtu.be/tVv9VbjxU5U)
+
+<img src="https://user-images.githubusercontent.com/70702088/146521110-d5889960-c32e-41f8-8d6e-dc3ce2f56a00.png" width="50%" height="50%"></img>
+
 - ### `2021-05` [Unity_VR_ExtremeSpeed](https://github.com/hhj3258/Unity_VR_ExtremeSpeed)
   -  Unity VR 레이싱 게임
   -  [Youtube - Unity VR Extreme Speed](https://www.youtube.com/watch?v=IZNl5Z_vPls)
@@ -37,11 +43,6 @@
   -  아기자기한 게임 구성과 쉬운 조작으로 남녀노소 즐길 수 있는 리듬게임
 
  <img src="https://user-images.githubusercontent.com/70702088/116793173-09575480-ab00-11eb-8a8f-c39fafe1f402.png" width="50%" height="50%"></img>
-
-- ### `2020-09` [UnityVR_ZombieZone](https://github.com/hhj3258/UnityVR_FPS_ZombieZone)
-  -  Unity VR FPS 생존 게임
-
-<img src="https://user-images.githubusercontent.com/70702088/116792147-ddd16b80-aaf9-11eb-9cd7-e482d562e1d8.png" width="50%" height="50%"></img>
 
 - ### `2021-03 ~` [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
   -  실제적인 자동차 물리 구현
@@ -110,6 +111,10 @@
 </br>
 
 # :surfer: 대외활동 & 수상경력
+- `2021-12` **대상** [소프트웨어융합대학 캡스톤디자인 경진대회 수상 결과](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=&val=&CAT_ID=0&BID=558&cmd=view)
+  - [2021년도 2학기 한림대학교 소프트웨어융합대학 캡스톤디자인 경진대회](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=TITLE_CONTENT&val=%C4%B8%BD%BA%C5%E6&CAT_ID=0&BID=541&cmd=view)
+  - [팀 Blue Bird - Rule Mate](https://github.com/hhj3258/RuleMate_Project)
+
 - `2021-11` **금상** [SW Week Coding Festival](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=&val=&CAT_ID=0&BID=548&cmd=view)
   - 한림대학교 교내 알고리즘 경진대회
 
