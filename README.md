@@ -111,7 +111,7 @@
 </br>
 
 # :surfer: 대외활동 & 수상경력
-- `2021-12` **대상** [소프트웨어융합대학 캡스톤디자인 경진대회 수상 결과](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=&val=&CAT_ID=0&BID=558&cmd=view)
+- `2021-12` **대상** [소프트웨어융합대학 캡스톤디자인 경진대회](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=&val=&CAT_ID=0&BID=558&cmd=view)
   - [2021년도 2학기 한림대학교 소프트웨어융합대학 캡스톤디자인 경진대회](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=TITLE_CONTENT&val=%C4%B8%BD%BA%C5%E6&CAT_ID=0&BID=541&cmd=view)
   - [팀 Blue Bird - Rule Mate](https://github.com/hhj3258/RuleMate_Project)
 
@@ -132,10 +132,7 @@
 
 - `2020-04` 한경 앱 아이디어 챌린지 참가
 
-# :necktie: 경력
-- `2020-12 ~ 2021-02` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
 
-- `2020-06 ~ 2020-08` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
 
 # :pencil: 교육이수
 - `2021-07` [누구나 할 수 있는 웹기반 증강현실(AR) 콘텐츠 제작](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=TITLE_CONTENT&val=VR&CAT_ID=0&BID=459&cmd=view)
@@ -150,3 +147,9 @@
 
 - `2019-09` [SW빌리지]보안-블록체인
 
+
+
+# :necktie: 경력
+- `2020-12 ~ 2021-02` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
+
+- `2020-06 ~ 2020-08` [(주)임팩시스](https://www.impacsys.co.kr/) 전략기획실 인턴
