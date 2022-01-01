@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/70702088/135261821-c0fac6cc-a34b-4ece-a27a-20480fac0190.png" width="35%" height="35%"></img>
 
-![image](https://user-images.githubusercontent.com/70702088/140992979-509d4b5f-ebec-4adf-aab1-e2e7e2e1c123.png)
+<img src="https://user-images.githubusercontent.com/70702088/147852435-a12867eb-dbbe-473c-942a-ed915a2fab53.png" width="55%" height="55%"></img>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhj3258)](https://solved.ac/hhj3258)
 
 
