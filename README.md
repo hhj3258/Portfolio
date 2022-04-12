@@ -1,6 +1,6 @@
 # **빠져드는 것을 즐기는 개발자, 홍현준입니다.**
 
-<img src="https://user-images.githubusercontent.com/70702088/135261821-c0fac6cc-a34b-4ece-a27a-20480fac0190.png" width="35%" height="35%"></img>
+<img src="https://user-images.githubusercontent.com/70702088/162875859-bff76e5a-35dd-4714-ac33-9ad19b84bda4.jpg" width="35%" height="35%"></img>
 
 <img src="https://user-images.githubusercontent.com/70702088/147852435-a12867eb-dbbe-473c-942a-ed915a2fab53.png" width="55%" height="55%"></img>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhj3258)](https://solved.ac/hhj3258)
@@ -39,13 +39,18 @@
 
 <img src="https://user-images.githubusercontent.com/70702088/132180826-bd95bbbd-79bb-4340-b093-953cf1ad79bb.png" width="50%" height="50%"></img>
 
+
+- ### `2021-12` [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
+  -  실제적인 자동차 물리 구현
+
+<img src="https://user-images.githubusercontent.com/70702088/162876358-e44f1cb1-ab7d-4173-a5ac-6886a0acc435.png" width="50%" height="50%"></img>
+
+
 - ### `2020-12` [Unity_Rhythm Attack!!](https://github.com/hhj3258/Unity_RhythmAttack)
   -  아기자기한 게임 구성과 쉬운 조작으로 남녀노소 즐길 수 있는 리듬게임
 
  <img src="https://user-images.githubusercontent.com/70702088/116793173-09575480-ab00-11eb-8a8f-c39fafe1f402.png" width="50%" height="50%"></img>
 
-- ### `2021-03 ~` [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
-  -  실제적인 자동차 물리 구현
 
 ## Unreal Engine 4
 - ### `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
@@ -53,7 +58,7 @@
 
 <img src="https://user-images.githubusercontent.com/70702088/116792211-31dc5000-aafa-11eb-875f-ac9cb8ae9b62.png" width="50%" height="50%"></img>
 
-## Other Projects
+## Side Projects
 - `2021-01` [WinForm_세출예산 자동화 툴](https://github.com/hhj3258/ExpenditureBudgets_AutomationProgram)
   -  세출예산 정리 자동화 툴(PDF to EXCEL)
 
@@ -79,6 +84,8 @@
 - PDF와 EXCEL 라이브러리 활용을 통한 파싱 프로그램 개발
 
 **C++ / Unreal**
+- [C++ Study repository](https://github.com/hhj3258/cpp_study)
+- [C++ 블로그 포스팅](https://velog.io/@hhj3258/series/C-C)
 - UE4 Dedicated Server 멀티플레이 게임 개발
 - UE4 C++ 프로그래밍 이해
 - 객체 지향에 대한 이해 및 설계
