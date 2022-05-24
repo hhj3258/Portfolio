@@ -43,7 +43,7 @@
 
 - ### `2021-12` [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
   -  수치해석을 사용해 구현한 자동차 물리 시뮬레이션
-  -  [Video link](https://drive.google.com/file/d/1W-Bx8AfA9MQ3_VJPGJ8OLnTrrKGJPI26/view?usp=sharing)
+  -  [Video link](http://naver.me/GDbAIXsr)
 
 <img src="https://user-images.githubusercontent.com/70702088/162876358-e44f1cb1-ab7d-4173-a5ac-6886a0acc435.png" width="50%" height="50%"></img>
 
