@@ -91,7 +91,6 @@
 - [C++ 블로그 포스팅](https://velog.io/@hhj3258/series/C-C)
 - UE4 Dedicated Server 멀티플레이 게임 개발
 - UE4 C++ 프로그래밍 이해
-- 객체 지향에 대한 이해 및 설계
 - 포인터에 대한 이해 및 활용
 - C++ STL 활용
 
