@@ -4,6 +4,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhj3258)](https://solved.ac/hhj3258)
 
+</br>
 
 # :raised_hands: Introduction
 - ### **반갑습니다! 게임 디벨로퍼 홍현준입니다.**
@@ -16,14 +17,14 @@
 
 - 항상 즐거운 일에 가치를 더하는 방법을 생각합니다.
 
+</br>
 
 # :mailbox_closed: Contacts
 - ### **GitHub** : [hhj3258](https://github.com/hhj3258)
 - ### **Blog** : https://velog.io/@hhj3258
 - ### **Email** : hhj3258@gmail.com
 
-
-
+</br>
 
 # :bulb: Personal Experiences from university
 ## Unity
