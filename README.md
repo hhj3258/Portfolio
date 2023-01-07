@@ -21,6 +21,7 @@
 
 # :mailbox_closed: Contacts
 - ### **GitHub** : [hhj3258](https://github.com/hhj3258)
+- ### **Gist** : https://gist.github.com/hhj3258
 - ### **Blog** : https://velog.io/@hhj3258
 - ### **Email** : hhj3258@gmail.com
 
