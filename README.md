@@ -1,4 +1,4 @@
-# **GameDeveloper 홍현준 입니다. 같이 게임 만드실래요?**
+# **GameDeveloper 홍현준 입니다!**
 
 <img src="https://user-images.githubusercontent.com/70702088/162875859-bff76e5a-35dd-4714-ac33-9ad19b84bda4.jpg" width="35%" height="35%"></img>
 
