@@ -1,11 +1,11 @@
-# **GameDeveloper 홍현준 입니다!**
+# **빠져듦을 즐기는 개발자, 홍현준입니다**
 
 <img src="https://user-images.githubusercontent.com/70702088/162875859-bff76e5a-35dd-4714-ac33-9ad19b84bda4.jpg" width="35%" height="35%"></img>
 
 </br>
 
 # :raised_hands: Introduction
-- ### **반갑습니다! 게임 디벨로퍼 홍현준입니다.**
+- ### **반갑습니다! 개발자 홍현준입니다.**
 
 - 게임을 좋아하고 나아가 즐거운 게임을 만들고 싶어 게임 디벨로퍼의 길을 걷고 있습니다.
 
