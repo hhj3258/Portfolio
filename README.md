@@ -25,8 +25,14 @@
 
 </br>
 
-# :bulb: Personal Experiences from university
+# :bulb: Personal Experiences
 ## Unity
+- ### `2025-04` [Hex Match](https://github.com/hhj3258/HexMatch)
+  -  육각형 그리드 기반의 매치-3 퍼즐 게임 (Hex Match-3 Puzzle Game)
+
+<img src="https://github.com/user-attachments/assets/808b2208-a01b-4b5e-808e-b16a2ea39f97" width="40%" height="40%"></img>
+
+
 - ### `2021-12` [Rule Mate](https://github.com/hhj3258/RuleMate_Project)
   -  캐주얼 멀티플레이 게임
   -  [Youtube - Rule Mate](https://youtu.be/tVv9VbjxU5U)
@@ -77,9 +83,9 @@
 구분 | Skill
 ---- | ----
 Programing Languages | C#, C++, JAVA
-Framework / Library | Unity Photon Engine, Vuforia AR Engine
-Tooling / DevOps | GitHub, Perforce
-Environment | Unity, UE4, AWS
+Framework / Library | Photon Engine, Vuforia AR Engine
+Tooling / DevOps | Git, Perforce
+Environment | Unity, UE, AWS
 
 </br>
 
