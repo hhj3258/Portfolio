@@ -1,6 +1,6 @@
 # **빠져듦을 즐기는 개발자, 홍현준입니다**
 
-<img src="https://user-images.githubusercontent.com/70702088/162875859-bff76e5a-35dd-4714-ac33-9ad19b84bda4.jpg" width="35%" height="35%"></img>
+<img src="https://user-images.githubusercontent.com/70702088/162875859-bff76e5a-35dd-4714-ac33-9ad19b84bda4.jpg" width="35%"></img>
 
 </br>
 
@@ -30,35 +30,35 @@
 - ### `2025-04` [Hex Match](https://github.com/hhj3258/HexMatch)
   -  육각형 그리드 기반의 매치-3 퍼즐 게임 (Hex Match-3 Puzzle Game)
 
-<img src="https://github.com/user-attachments/assets/808b2208-a01b-4b5e-808e-b16a2ea39f97" width="40%" height="40%"></img>
+<img src="https://github.com/user-attachments/assets/808b2208-a01b-4b5e-808e-b16a2ea39f97" width="30%"></img>
 
 
 - ### `2021-12` [Rule Mate](https://github.com/hhj3258/RuleMate_Project)
   -  캐주얼 멀티플레이 게임
   -  [Youtube - Rule Mate](https://youtu.be/tVv9VbjxU5U)
 
-<img src="https://user-images.githubusercontent.com/70702088/146521110-d5889960-c32e-41f8-8d6e-dc3ce2f56a00.png" width="50%" height="50%"></img>
+<img src="https://user-images.githubusercontent.com/70702088/146521110-d5889960-c32e-41f8-8d6e-dc3ce2f56a00.png" width="45%"></img>
 
 
 - ### `2021-05` [Unity_VR_ExtremeSpeed](https://github.com/hhj3258/Unity_VR_ExtremeSpeed)
   -  Unity VR 레이싱 게임
   -  [Youtube - Unity VR Extreme Speed](https://www.youtube.com/watch?v=IZNl5Z_vPls)
 
-<img src="https://user-images.githubusercontent.com/70702088/132180826-bd95bbbd-79bb-4340-b093-953cf1ad79bb.png" width="50%" height="50%"></img>
+<img src="https://user-images.githubusercontent.com/70702088/132180826-bd95bbbd-79bb-4340-b093-953cf1ad79bb.png" width="45%"></img>
 
 
 - ### `2021-12` [GamePhysics_RealisticCarPhysics](https://github.com/hhj3258/GamePhysics_RealisticCarPhysics)
   -  수치해석을 사용해 구현한 자동차 물리 시뮬레이션
   -  [Video link](http://naver.me/GDbAIXsr)
 
-<img src="https://user-images.githubusercontent.com/70702088/162876358-e44f1cb1-ab7d-4173-a5ac-6886a0acc435.png" width="50%" height="50%"></img>
+<img src="https://user-images.githubusercontent.com/70702088/162876358-e44f1cb1-ab7d-4173-a5ac-6886a0acc435.png" width="45%"></img>
 
 
 ## Unreal Engine 4
 - ### `2020-12` [UE4_Multi Maze Runner](https://github.com/hhj3258/UE4_MultiMazeRunner)
   -  Dedicated Server를 사용한 2인 미로 탈출 멀티플레이 게임
 
-<img src="https://user-images.githubusercontent.com/70702088/116792211-31dc5000-aafa-11eb-875f-ac9cb8ae9b62.png" width="50%" height="50%"></img>
+<img src="https://user-images.githubusercontent.com/70702088/116792211-31dc5000-aafa-11eb-875f-ac9cb8ae9b62.png" width="45%"></img>
 
 
 ## Side Projects
