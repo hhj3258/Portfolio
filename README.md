@@ -1,9 +1,3 @@
-# **빠져듦을 즐기는 개발자, 홍현준입니다**
-
-<img src="https://user-images.githubusercontent.com/70702088/162875859-bff76e5a-35dd-4714-ac33-9ad19b84bda4.jpg" width="35%"></img>
-
-</br>
-
 # :raised_hands: Introduction
 - ### **반갑습니다! 개발자 홍현준입니다.**
 
